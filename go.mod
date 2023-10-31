@@ -1,0 +1,3 @@
+module my-go-module
+
+go 1.21.3
